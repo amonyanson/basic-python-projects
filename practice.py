@@ -1,20 +1,2 @@
-import random
-
-def newgame():
-    pass
-def checkanswer():
-    pass
-def displayscore():
-    pass
-def again():
-    pass
-
-questions = {"who created python": "A",
-             "python is tributed to which comedy group?": "B",
-
-             }
-options = [[]]
-
-newgame()
-while again():
-    newgame()
+list1 = ["abc", 34, True, 40, "male"]
+print(list1)
